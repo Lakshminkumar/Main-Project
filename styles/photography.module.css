@@ -1,0 +1,24 @@
+.photography_box{
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+.photography_box_box{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.photography_box_box_img{
+   
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.photography_box_box_img_img{
+    border-radius: 1rem;
+}
+
+.photography_box_box_img h3{
+    line-height: 0;
+    font-size: 2rem;
+}

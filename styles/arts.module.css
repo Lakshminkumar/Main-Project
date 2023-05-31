@@ -1,0 +1,24 @@
+.arts_box{
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+.arts_box_box{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.arts_box_box_img{
+   
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.arts_box_box_img_img{
+    border-radius: 1rem;
+}
+
+.arts_box_box_img h3{
+    line-height: 0;
+    font-size: 2rem;
+}
